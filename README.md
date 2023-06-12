@@ -52,12 +52,12 @@
 
 ### <font size="3">**Data source**
 
-- The coordinate system of this dataset is: WGS84.
+- The coordinate system of this dataset is: WGS 1984. EPSG: 4326.
 - Format: shapefile and kml.
 - Data type: points.
-- Number of records: 180.
+- Number of records: 110 geoforms.
 - Stratified slope deposits do not contain the information about the minimum and maximum elevation and their surface. The current status of these areas do not allow a accuracy analysis about their extension.
-- All references related with the recorded geoforms are included in the [.bib file](https://github.com/alejandro-gomez/periglacial-database-NW-Iberia/blob/main/references/references.bib), in folder "references".
+- All references related with the recorded geoforms are included in the [.bib file](https://github.com/alejandro-gomez/periglacial-database-NW-Iberia/blob/main/references/references.bib), in folder **references**.
 
 
 ## **<font size="4">Contributions</font>**
@@ -69,7 +69,7 @@
 
 Using this dataset for research publication? Please **cite it**!
 
-***Gómez-Pazo, A. & Pérez-Alberti, A.***, (*2023*). *Database of periglacial landforms and deposits in the NW Iberian Peninsula*. 6th European Conference on Permafrost (EUCOP 2023). Puigcerdà. pp.437. DOI: [https://doi.org/10.52381/EUCOP6.abstracts.1](https://doi.org/10.52381/EUCOP6.abstracts.1)
+***Gómez-Pazo, A. & Pérez-Alberti, A.***, (*2023*). *Database of periglacial landforms and deposits in the NW Iberian Peninsula*. 6th European Conference on Permafrost (EUCOP 2023). Puigcerdà. pp. 437. DOI: [https://doi.org/10.52381/EUCOP6.abstracts.1](https://doi.org/10.52381/EUCOP6.abstracts.1)
 
 ## **<font size="4">Authors</font>**
 
@@ -79,6 +79,6 @@ Augusto Pérez-Alberti <a href="https://orcid.org/0000-0001-7428-4622"><img src=
 
 ## **<font size="4">References</font>**
 
-- Gómez-Pazo, A. & Pérez-Alberti, A. (2023). Database of periglacial landforms and deposits in the NW Iberian Peninsula. 6th European Conference on Permafrost (EUCOP 2023). Puigcerdà.pp.437. DOI: [https://doi.org/10.52381/EUCOP6.abstracts.1](https://doi.org/10.52381/EUCOP6.abstracts.1)
+- Gómez-Pazo, A. & Pérez-Alberti, A. (2023). Database of periglacial landforms and deposits in the NW Iberian Peninsula. 6th European Conference on Permafrost (EUCOP 2023). Puigcerdà. pp. 437. DOI: [https://doi.org/10.52381/EUCOP6.abstracts.1](https://doi.org/10.52381/EUCOP6.abstracts.1)
 
 </font>
