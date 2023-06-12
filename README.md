@@ -2,7 +2,7 @@
   <img src="portada.png" alt="cover image">
 </p>
 
-**<font size="3">Current version: 1.0.0:** Version updated at 31/05/2023.</font>
+**<font size="3">Current version: 1.0.0:** Version updated at 13/06/2023.</font>
 
 ----
 
@@ -21,7 +21,7 @@
 
 ## **<font size="4">Aim of this dataset</font>**
 
-<font size="3">This project is the first approach for creating a database on periglacial geoforms present in the NW of the Iberian Peninsula. The database has been created as a reference element to carry out paleoenvironmental reconstructions that help precisely characterize the forms. This could improve the interpretation of the current landscape and the territorial evolution. For this reason, the files include not only alphanumeric data, but each record was also created with maps and images that clearly understand each site and, where appropriate, the previous works about these areas. Another key aim of this project is to determine the importance of each site at the local, regional, or international level. This fact aims to propose some specific areas as sites of geological interest, thus preventing their disappearance.
+<font size="3">This project (PERIDB_NWI) is the first approach for creating a database on periglacial geoforms present in the NW of the Iberian Peninsula. The database has been created as a reference element to carry out paleoenvironmental reconstructions that help precisely characterize the forms. This could improve the interpretation of the current landscape and the territorial evolution. For this reason, the files include not only alphanumeric data, but each record was also created with maps and images that clearly understand each site and, where appropriate, the previous works about these areas. Another key aim of this project is to determine the importance of each site at the local, regional, or international level. This fact aims to propose some specific areas as sites of geological interest, thus preventing their disappearance.
 
 ## **<font size="4">Dataset information</font>**
 
@@ -54,10 +54,11 @@
 
 - The coordinate system of this dataset is: WGS 1984. EPSG: 4326.
 - Format: shapefile and kml.
+- Current file name: PERIDB_NWI_v1_0_0.
 - Data type: points.
 - Number of records: 110 geoforms.
 - Stratified slope deposits do not contain the information about the minimum and maximum elevation and their surface. The current status of these areas do not allow a accuracy analysis about their extension.
-- All references related with the recorded geoforms are included in the [.bib file](https://github.com/alejandro-gomez/periglacial-database-NW-Iberia/blob/main/references/references.bib), in folder **references**.
+- All references related with the recorded geoforms are included in the [.bib file](https://github.com/alejandro-gomez/PERIDB_NWI/blob/main/references/references.bib), in folder **references**.
 
 
 ## **<font size="4">Contributions</font>**
